@@ -11,7 +11,7 @@
 	<packaging>war</packaging>
 	<name>screennamevalidator-hook</name>
 	<scm>
-		<developerConnection>scm:git:git://gitlab.fokus.fraunhofer.de:odp-screennamevalidator-hook</developerConnection>
+		<developerConnection>scm:git:git://github.com:fraunhoferfokus/odp-screennamevalidator-hook.git</developerConnection>
 	</scm>
 	<build>
 		<finalName>${project.artifactId}-${project.version}</finalName>
